@@ -1,0 +1,8 @@
+jupyter
+pytest
+pytest-pycodestyle 
+numpy
+matplotlib
+scipy
+seaborn
+pandas

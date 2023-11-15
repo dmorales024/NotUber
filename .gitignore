@@ -8,3 +8,4 @@ venv
 .csv
 driver_profits.txt
 passenger_times.txt
+passenger_sanity_check.txt

@@ -6,3 +6,5 @@ venv
 .pytest_cache
 .json
 .csv
+driver_profits.txt
+passenger_times.txt

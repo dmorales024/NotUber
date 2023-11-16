@@ -4,7 +4,14 @@ __pycache__/
 .DS_Store
 venv
 .pytest_cache
-.json
-.csv
+adjacency 2.json
+adjacency_readme.txt
 driver_profits.txt
+drivers.csv
+drivers_and_passengers_readme.txt
+node_data.json
+node_data_readme.txt
+passenger_sanity_check.txt
 passenger_times.txt
+passengers.csv
+

@@ -1,0 +1,2565 @@
+Driver 0: still in queue 
+Driver 1: still in queue 
+Driver 2: still in queue 
+Driver 2: exited 
+Driver 3: exited 
+Driver 4: exited 
+Driver 5: still in queue 
+Driver 5: still in queue 
+Driver 5: still in queue 
+Driver 5: still in queue 
+Driver 5: still in queue 
+Driver 5: still in queue 
+Driver 5: still in queue 
+Driver 5: still in queue 
+Driver 5: still in queue 
+Driver 1: exited 
+Driver 0: exited 
+Driver 6: still in queue 
+Driver 6: still in queue 
+Driver 6: still in queue 
+Driver 6: still in queue 
+Driver 5: exited 
+Driver 6: still in queue 
+Driver 7: exited 
+Driver 6: still in queue 
+Driver 6: still in queue 
+Driver 6: still in queue 
+Driver 6: still in queue 
+Driver 8: still in queue 
+Driver 8: still in queue 
+Driver 8: still in queue 
+Driver 8: exited 
+Driver 6: still in queue 
+Driver 6: still in queue 
+Driver 6: still in queue 
+Driver 9: still in queue 
+Driver 9: still in queue 
+Driver 9: still in queue 
+Driver 9: still in queue 
+Driver 9: still in queue 
+Driver 9: still in queue 
+Driver 9: still in queue 
+Driver 9: exited 
+Driver 6: exited 
+Driver 10: exited 
+Driver 11: still in queue 
+Driver 11: exited 
+Driver 12: exited 
+Driver 13: still in queue 
+Driver 13: still in queue 
+Driver 13: still in queue 
+Driver 13: exited 
+Driver 14: still in queue 
+Driver 14: still in queue 
+Driver 14: exited 
+Driver 15: exited 
+Driver 16: still in queue 
+Driver 16: exited 
+Driver 17: still in queue 
+Driver 17: exited 
+Driver 18: still in queue 
+Driver 18: exited 
+Driver 19: still in queue 
+Driver 19: still in queue 
+Driver 19: still in queue 
+Driver 19: still in queue 
+Driver 19: still in queue 
+Driver 19: still in queue 
+Driver 19: still in queue 
+Driver 19: still in queue 
+Driver 19: still in queue 
+Driver 19: still in queue 
+Driver 19: exited 
+Driver 20: still in queue 
+Driver 20: still in queue 
+Driver 20: still in queue 
+Driver 20: still in queue 
+Driver 20: still in queue 
+Driver 20: still in queue 
+Driver 20: still in queue 
+Driver 20: exited 
+Driver 21: still in queue 
+Driver 21: still in queue 
+Driver 21: still in queue 
+Driver 21: exited 
+Driver 22: still in queue 
+Driver 22: still in queue 
+Driver 22: still in queue 
+Driver 22: still in queue 
+Driver 22: exited 
+Driver 23: still in queue 
+Driver 23: still in queue 
+Driver 23: exited 
+Driver 24: exited 
+Driver 25: still in queue 
+Driver 25: exited 
+Driver 26: still in queue 
+Driver 26: still in queue 
+Driver 26: exited 
+Driver 27: still in queue 
+Driver 27: still in queue 
+Driver 27: still in queue 
+Driver 27: still in queue 
+Driver 27: still in queue 
+Driver 27: still in queue 
+Driver 27: still in queue 
+Driver 27: exited 
+Driver 28: still in queue 
+Driver 28: still in queue 
+Driver 28: still in queue 
+Driver 28: still in queue 
+Driver 28: exited 
+Driver 29: still in queue 
+Driver 29: still in queue 
+Driver 29: still in queue 
+Driver 29: still in queue 
+Driver 29: still in queue 
+Driver 29: still in queue 
+Driver 29: exited 
+Driver 30: still in queue 
+Driver 30: still in queue 
+Driver 30: still in queue 
+Driver 30: still in queue 
+Driver 30: still in queue 
+Driver 30: exited 
+Driver 31: exited 
+Driver 32: still in queue 
+Driver 32: still in queue 
+Driver 32: exited 
+Driver 33: still in queue 
+Driver 33: still in queue 
+Driver 33: still in queue 
+Driver 33: still in queue 
+Driver 34: still in queue 
+Driver 34: still in queue 
+Driver 34: still in queue 
+Driver 34: exited 
+Driver 35: still in queue 
+Driver 35: still in queue 
+Driver 33: still in queue 
+Driver 33: still in queue 
+Driver 33: exited 
+Driver 35: exited 
+Driver 36: still in queue 
+Driver 36: still in queue 
+Driver 36: still in queue 
+Driver 36: still in queue 
+Driver 36: still in queue 
+Driver 36: still in queue 
+Driver 36: still in queue 
+Driver 36: still in queue 
+Driver 36: still in queue 
+Driver 36: exited 
+Driver 37: exited 
+Driver 38: still in queue 
+Driver 39: exited 
+Driver 40: exited 
+Driver 38: still in queue 
+Driver 38: exited 
+Driver 41: still in queue 
+Driver 41: still in queue 
+Driver 41: still in queue 
+Driver 41: still in queue 
+Driver 41: still in queue 
+Driver 41: still in queue 
+Driver 41: still in queue 
+Driver 41: still in queue 
+Driver 41: still in queue 
+Driver 41: exited 
+Driver 42: exited 
+Driver 43: still in queue 
+Driver 43: still in queue 
+Driver 43: still in queue 
+Driver 43: exited 
+Driver 44: still in queue 
+Driver 44: still in queue 
+Driver 44: still in queue 
+Driver 44: still in queue 
+Driver 44: still in queue 
+Driver 44: still in queue 
+Driver 44: still in queue 
+Driver 44: still in queue 
+Driver 44: still in queue 
+Driver 44: exited 
+Driver 45: still in queue 
+Driver 45: exited 
+Driver 46: still in queue 
+Driver 46: still in queue 
+Driver 46: still in queue 
+Driver 46: still in queue 
+Driver 46: exited 
+Driver 47: exited 
+Driver 48: still in queue 
+Driver 48: still in queue 
+Driver 48: still in queue 
+Driver 48: still in queue 
+Driver 48: exited 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: still in queue 
+Driver 49: exited 
+Driver 50: still in queue 
+Driver 50: still in queue 
+Driver 50: still in queue 
+Driver 50: still in queue 
+Driver 50: exited 
+Driver 51: still in queue 
+Driver 51: exited 
+Driver 52: exited 
+Driver 53: still in queue 
+Driver 53: still in queue 
+Driver 53: still in queue 
+Driver 53: still in queue 
+Driver 53: still in queue 
+Driver 53: still in queue 
+Driver 53: still in queue 
+Driver 53: exited 
+Driver 54: still in queue 
+Driver 54: still in queue 
+Driver 54: still in queue 
+Driver 54: still in queue 
+Driver 54: still in queue 
+Driver 54: still in queue 
+Driver 54: still in queue 
+Driver 54: still in queue 
+Driver 54: still in queue 
+Driver 54: still in queue 
+Driver 54: still in queue 
+Driver 54: exited 
+Driver 55: still in queue 
+Driver 55: still in queue 
+Driver 55: still in queue 
+Driver 55: exited 
+Driver 56: still in queue 
+Driver 56: still in queue 
+Driver 56: still in queue 
+Driver 56: exited 
+Driver 57: still in queue 
+Driver 57: still in queue 
+Driver 57: exited 
+Driver 58: exited 
+Driver 59: exited 
+Driver 60: still in queue 
+Driver 60: still in queue 
+Driver 60: still in queue 
+Driver 60: still in queue 
+Driver 60: still in queue 
+Driver 60: still in queue 
+Driver 60: still in queue 
+Driver 60: still in queue 
+Driver 60: still in queue 
+Driver 60: still in queue 
+Driver 60: exited 
+Driver 61: still in queue 
+Driver 61: still in queue 
+Driver 61: still in queue 
+Driver 61: still in queue 
+Driver 61: still in queue 
+Driver 61: still in queue 
+Driver 61: still in queue 
+Driver 61: still in queue 
+Driver 61: exited 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: still in queue 
+Driver 62: exited 
+Driver 63: still in queue 
+Driver 63: exited 
+Driver 64: still in queue 
+Driver 64: still in queue 
+Driver 64: exited 
+Driver 65: exited 
+Driver 66: still in queue 
+Driver 66: still in queue 
+Driver 66: still in queue 
+Driver 66: exited 
+Driver 67: still in queue 
+Driver 67: exited 
+Driver 68: still in queue 
+Driver 68: still in queue 
+Driver 68: still in queue 
+Driver 68: exited 
+Driver 69: still in queue 
+Driver 69: still in queue 
+Driver 69: still in queue 
+Driver 69: still in queue 
+Driver 69: still in queue 
+Driver 69: exited 
+Driver 70: still in queue 
+Driver 70: exited 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: still in queue 
+Driver 71: exited 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: still in queue 
+Driver 72: exited 
+Driver 73: still in queue 
+Driver 73: exited 
+Driver 74: still in queue 
+Driver 74: still in queue 
+Driver 74: exited 
+Driver 75: still in queue 
+Driver 75: still in queue 
+Driver 75: still in queue 
+Driver 75: exited 
+Driver 76: exited 
+Driver 77: exited 
+Driver 78: still in queue 
+Driver 78: still in queue 
+Driver 78: still in queue 
+Driver 78: still in queue 
+Driver 78: exited 
+Driver 79: exited 
+Driver 80: still in queue 
+Driver 80: exited 
+Driver 81: still in queue 
+Driver 81: still in queue 
+Driver 81: still in queue 
+Driver 81: still in queue 
+Driver 81: exited 
+Driver 82: still in queue 
+Driver 82: exited 
+Driver 83: still in queue 
+Driver 83: exited 
+Driver 84: still in queue 
+Driver 84: exited 
+Driver 85: still in queue 
+Driver 85: still in queue 
+Driver 85: still in queue 
+Driver 85: still in queue 
+Driver 85: still in queue 
+Driver 85: still in queue 
+Driver 85: still in queue 
+Driver 85: still in queue 
+Driver 85: still in queue 
+Driver 85: still in queue 
+Driver 85: still in queue 
+Driver 85: exited 
+Driver 86: still in queue 
+Driver 86: still in queue 
+Driver 86: still in queue 
+Driver 86: still in queue 
+Driver 86: still in queue 
+Driver 86: still in queue 
+Driver 86: exited 
+Driver 87: still in queue 
+Driver 87: still in queue 
+Driver 87: still in queue 
+Driver 87: exited 
+Driver 88: still in queue 
+Driver 88: still in queue 
+Driver 88: exited 
+Driver 89: still in queue 
+Driver 89: still in queue 
+Driver 89: still in queue 
+Driver 89: still in queue 
+Driver 89: still in queue 
+Driver 89: still in queue 
+Driver 89: exited 
+Driver 90: still in queue 
+Driver 90: exited 
+Driver 91: still in queue 
+Driver 91: still in queue 
+Driver 91: still in queue 
+Driver 91: still in queue 
+Driver 91: still in queue 
+Driver 91: exited 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: still in queue 
+Driver 92: exited 
+Driver 93: still in queue 
+Driver 93: exited 
+Driver 94: still in queue 
+Driver 94: still in queue 
+Driver 94: exited 
+Driver 95: exited 
+Driver 96: still in queue 
+Driver 96: still in queue 
+Driver 96: still in queue 
+Driver 96: still in queue 
+Driver 96: still in queue 
+Driver 96: still in queue 
+Driver 96: still in queue 
+Driver 96: still in queue 
+Driver 96: still in queue 
+Driver 96: still in queue 
+Driver 96: still in queue 
+Driver 96: exited 
+Driver 97: still in queue 
+Driver 97: still in queue 
+Driver 97: still in queue 
+Driver 97: still in queue 
+Driver 97: still in queue 
+Driver 97: still in queue 
+Driver 97: still in queue 
+Driver 97: exited 
+Driver 98: still in queue 
+Driver 98: still in queue 
+Driver 98: still in queue 
+Driver 98: still in queue 
+Driver 98: still in queue 
+Driver 98: still in queue 
+Driver 98: still in queue 
+Driver 98: still in queue 
+Driver 98: still in queue 
+Driver 98: exited 
+Driver 99: still in queue 
+Driver 99: still in queue 
+Driver 99: exited 
+Driver 100: still in queue 
+Driver 100: still in queue 
+Driver 100: still in queue 
+Driver 100: exited 
+Driver 101: still in queue 
+Driver 101: still in queue 
+Driver 101: still in queue 
+Driver 101: exited 
+Driver 102: still in queue 
+Driver 102: exited 
+Driver 103: still in queue 
+Driver 103: still in queue 
+Driver 103: exited 
+Driver 104: still in queue 
+Driver 104: exited 
+Driver 105: still in queue 
+Driver 105: still in queue 
+Driver 105: still in queue 
+Driver 105: still in queue 
+Driver 105: still in queue 
+Driver 105: still in queue 
+Driver 105: exited 
+Driver 106: exited 
+Driver 107: still in queue 
+Driver 107: still in queue 
+Driver 107: exited 
+Driver 108: still in queue 
+Driver 108: still in queue 
+Driver 108: still in queue 
+Driver 108: still in queue 
+Driver 108: still in queue 
+Driver 108: still in queue 
+Driver 108: still in queue 
+Driver 108: still in queue 
+Driver 108: still in queue 
+Driver 108: still in queue 
+Driver 108: exited 
+Driver 109: still in queue 
+Driver 109: still in queue 
+Driver 109: still in queue 
+Driver 109: still in queue 
+Driver 109: still in queue 
+Driver 109: exited 
+Driver 110: still in queue 
+Driver 110: exited 
+Driver 111: still in queue 
+Driver 111: still in queue 
+Driver 111: still in queue 
+Driver 111: still in queue 
+Driver 111: still in queue 
+Driver 111: still in queue 
+Driver 111: still in queue 
+Driver 111: exited 
+Driver 112: exited 
+Driver 113: still in queue 
+Driver 113: still in queue 
+Driver 113: still in queue 
+Driver 113: exited 
+Driver 114: still in queue 
+Driver 114: still in queue 
+Driver 114: exited 
+Driver 115: still in queue 
+Driver 115: exited 
+Driver 116: still in queue 
+Driver 116: still in queue 
+Driver 116: still in queue 
+Driver 116: still in queue 
+Driver 116: still in queue 
+Driver 116: exited 
+Driver 117: still in queue 
+Driver 117: still in queue 
+Driver 117: still in queue 
+Driver 117: still in queue 
+Driver 117: still in queue 
+Driver 117: still in queue 
+Driver 117: still in queue 
+Driver 117: still in queue 
+Driver 117: still in queue 
+Driver 117: still in queue 
+Driver 117: exited 
+Driver 118: exited 
+Driver 119: still in queue 
+Driver 119: still in queue 
+Driver 119: still in queue 
+Driver 119: still in queue 
+Driver 119: still in queue 
+Driver 119: still in queue 
+Driver 119: still in queue 
+Driver 119: exited 
+Driver 120: still in queue 
+Driver 120: still in queue 
+Driver 120: still in queue 
+Driver 120: still in queue 
+Driver 120: still in queue 
+Driver 120: still in queue 
+Driver 120: still in queue 
+Driver 120: exited 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: still in queue 
+Driver 121: exited 
+Driver 122: still in queue 
+Driver 122: still in queue 
+Driver 122: exited 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: still in queue 
+Driver 123: exited 
+Driver 124: still in queue 
+Driver 124: still in queue 
+Driver 124: still in queue 
+Driver 124: still in queue 
+Driver 124: still in queue 
+Driver 124: still in queue 
+Driver 124: exited 
+Driver 125: exited 
+Driver 126: still in queue 
+Driver 126: still in queue 
+Driver 126: exited 
+Driver 127: still in queue 
+Driver 127: exited 
+Driver 128: still in queue 
+Driver 128: still in queue 
+Driver 128: exited 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: still in queue 
+Driver 129: exited 
+Driver 130: still in queue 
+Driver 130: still in queue 
+Driver 130: still in queue 
+Driver 130: exited 
+Driver 131: exited 
+Driver 132: still in queue 
+Driver 132: still in queue 
+Driver 132: exited 
+Driver 133: exited 
+Driver 134: still in queue 
+Driver 134: exited 
+Driver 135: still in queue 
+Driver 135: still in queue 
+Driver 135: exited 
+Driver 136: exited 
+Driver 137: still in queue 
+Driver 137: exited 
+Driver 138: still in queue 
+Driver 138: still in queue 
+Driver 138: still in queue 
+Driver 138: still in queue 
+Driver 138: exited 
+Driver 139: still in queue 
+Driver 139: still in queue 
+Driver 139: still in queue 
+Driver 139: still in queue 
+Driver 139: still in queue 
+Driver 139: still in queue 
+Driver 139: still in queue 
+Driver 139: still in queue 
+Driver 139: still in queue 
+Driver 139: still in queue 
+Driver 139: still in queue 
+Driver 139: exited 
+Driver 140: exited 
+Driver 141: still in queue 
+Driver 141: still in queue 
+Driver 141: still in queue 
+Driver 141: exited 
+Driver 142: still in queue 
+Driver 142: still in queue 
+Driver 142: still in queue 
+Driver 142: still in queue 
+Driver 142: still in queue 
+Driver 142: still in queue 
+Driver 142: exited 
+Driver 143: still in queue 
+Driver 143: still in queue 
+Driver 143: still in queue 
+Driver 143: still in queue 
+Driver 143: exited 
+Driver 144: still in queue 
+Driver 144: still in queue 
+Driver 144: still in queue 
+Driver 144: still in queue 
+Driver 144: still in queue 
+Driver 144: exited 
+Driver 145: still in queue 
+Driver 145: still in queue 
+Driver 145: still in queue 
+Driver 145: still in queue 
+Driver 145: exited 
+Driver 146: still in queue 
+Driver 146: still in queue 
+Driver 146: exited 
+Driver 147: still in queue 
+Driver 147: still in queue 
+Driver 147: still in queue 
+Driver 147: exited 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: still in queue 
+Driver 148: exited 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: still in queue 
+Driver 149: exited 
+Driver 150: exited 
+Driver 151: still in queue 
+Driver 151: still in queue 
+Driver 151: exited 
+Driver 152: still in queue 
+Driver 152: exited 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: still in queue 
+Driver 153: exited 
+Driver 154: still in queue 
+Driver 154: exited 
+Driver 155: still in queue 
+Driver 155: exited 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: still in queue 
+Driver 156: exited 
+Driver 157: exited 
+Driver 158: still in queue 
+Driver 158: still in queue 
+Driver 158: still in queue 
+Driver 158: exited 
+Driver 159: still in queue 
+Driver 159: still in queue 
+Driver 159: still in queue 
+Driver 159: still in queue 
+Driver 159: still in queue 
+Driver 159: still in queue 
+Driver 159: still in queue 
+Driver 159: exited 
+Driver 160: still in queue 
+Driver 160: still in queue 
+Driver 160: exited 
+Driver 161: still in queue 
+Driver 161: still in queue 
+Driver 161: still in queue 
+Driver 161: exited 
+Driver 162: still in queue 
+Driver 162: still in queue 
+Driver 162: still in queue 
+Driver 162: still in queue 
+Driver 162: exited 
+Driver 163: still in queue 
+Driver 163: still in queue 
+Driver 163: still in queue 
+Driver 163: still in queue 
+Driver 163: exited 
+Driver 164: exited 
+Driver 165: still in queue 
+Driver 165: still in queue 
+Driver 165: still in queue 
+Driver 165: still in queue 
+Driver 165: exited 
+Driver 166: exited 
+Driver 167: still in queue 
+Driver 167: still in queue 
+Driver 167: still in queue 
+Driver 167: exited 
+Driver 168: exited 
+Driver 169: still in queue 
+Driver 169: still in queue 
+Driver 169: exited 
+Driver 170: still in queue 
+Driver 170: still in queue 
+Driver 170: still in queue 
+Driver 170: still in queue 
+Driver 170: still in queue 
+Driver 170: still in queue 
+Driver 170: still in queue 
+Driver 170: still in queue 
+Driver 170: exited 
+Driver 171: still in queue 
+Driver 171: still in queue 
+Driver 171: still in queue 
+Driver 171: exited 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: still in queue 
+Driver 172: exited 
+Driver 173: still in queue 
+Driver 173: still in queue 
+Driver 173: still in queue 
+Driver 173: still in queue 
+Driver 173: still in queue 
+Driver 173: still in queue 
+Driver 173: exited 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: still in queue 
+Driver 174: exited 
+Driver 175: still in queue 
+Driver 175: still in queue 
+Driver 175: still in queue 
+Driver 175: still in queue 
+Driver 175: still in queue 
+Driver 175: exited 
+Driver 176: still in queue 
+Driver 176: still in queue 
+Driver 176: still in queue 
+Driver 176: exited 
+Driver 177: exited 
+Driver 178: still in queue 
+Driver 178: exited 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: still in queue 
+Driver 179: exited 
+Driver 180: exited 
+Driver 181: still in queue 
+Driver 181: exited 
+Driver 182: still in queue 
+Driver 182: still in queue 
+Driver 182: still in queue 
+Driver 182: still in queue 
+Driver 182: still in queue 
+Driver 182: still in queue 
+Driver 182: still in queue 
+Driver 182: still in queue 
+Driver 182: still in queue 
+Driver 182: still in queue 
+Driver 182: still in queue 
+Driver 182: exited 
+Driver 183: still in queue 
+Driver 183: still in queue 
+Driver 183: still in queue 
+Driver 183: exited 
+Driver 184: exited 
+Driver 185: still in queue 
+Driver 185: still in queue 
+Driver 185: still in queue 
+Driver 185: still in queue 
+Driver 185: still in queue 
+Driver 185: still in queue 
+Driver 185: still in queue 
+Driver 185: still in queue 
+Driver 185: still in queue 
+Driver 185: still in queue 
+Driver 185: exited 
+Driver 186: still in queue 
+Driver 186: still in queue 
+Driver 186: exited 
+Driver 187: still in queue 
+Driver 187: still in queue 
+Driver 187: still in queue 
+Driver 187: still in queue 
+Driver 187: still in queue 
+Driver 187: still in queue 
+Driver 187: still in queue 
+Driver 187: exited 
+Driver 188: still in queue 
+Driver 188: still in queue 
+Driver 188: still in queue 
+Driver 188: still in queue 
+Driver 188: still in queue 
+Driver 188: still in queue 
+Driver 188: still in queue 
+Driver 188: still in queue 
+Driver 188: still in queue 
+Driver 188: exited 
+Driver 189: still in queue 
+Driver 189: still in queue 
+Driver 189: still in queue 
+Driver 189: exited 
+Driver 190: exited 
+Driver 191: still in queue 
+Driver 191: still in queue 
+Driver 191: still in queue 
+Driver 191: still in queue 
+Driver 191: still in queue 
+Driver 191: still in queue 
+Driver 191: still in queue 
+Driver 191: still in queue 
+Driver 191: still in queue 
+Driver 191: still in queue 
+Driver 191: still in queue 
+Driver 191: exited 
+Driver 192: still in queue 
+Driver 192: still in queue 
+Driver 192: still in queue 
+Driver 192: still in queue 
+Driver 192: still in queue 
+Driver 192: still in queue 
+Driver 192: still in queue 
+Driver 192: still in queue 
+Driver 192: exited 
+Driver 193: still in queue 
+Driver 193: still in queue 
+Driver 193: still in queue 
+Driver 193: exited 
+Driver 194: exited 
+Driver 195: still in queue 
+Driver 195: still in queue 
+Driver 195: exited 
+Driver 196: exited 
+Driver 197: still in queue 
+Driver 197: exited 
+Driver 198: still in queue 
+Driver 198: still in queue 
+Driver 198: still in queue 
+Driver 198: still in queue 
+Driver 198: still in queue 
+Driver 198: still in queue 
+Driver 198: still in queue 
+Driver 198: still in queue 
+Driver 198: still in queue 
+Driver 198: still in queue 
+Driver 198: exited 
+Driver 199: still in queue 
+Driver 199: exited 
+Driver 200: still in queue 
+Driver 200: still in queue 
+Driver 200: still in queue 
+Driver 200: still in queue 
+Driver 200: exited 
+Driver 201: still in queue 
+Driver 201: still in queue 
+Driver 201: still in queue 
+Driver 201: exited 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: still in queue 
+Driver 202: exited 
+Driver 203: still in queue 
+Driver 203: still in queue 
+Driver 203: still in queue 
+Driver 203: still in queue 
+Driver 203: still in queue 
+Driver 203: still in queue 
+Driver 203: still in queue 
+Driver 203: still in queue 
+Driver 203: still in queue 
+Driver 203: still in queue 
+Driver 203: still in queue 
+Driver 203: exited 
+Driver 204: still in queue 
+Driver 204: still in queue 
+Driver 204: still in queue 
+Driver 204: exited 
+Driver 205: exited 
+Driver 206: still in queue 
+Driver 206: still in queue 
+Driver 206: exited 
+Driver 207: still in queue 
+Driver 207: still in queue 
+Driver 207: still in queue 
+Driver 207: still in queue 
+Driver 207: still in queue 
+Driver 207: still in queue 
+Driver 207: still in queue 
+Driver 207: still in queue 
+Driver 207: exited 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: still in queue 
+Driver 208: exited 
+Driver 209: still in queue 
+Driver 209: still in queue 
+Driver 209: still in queue 
+Driver 209: still in queue 
+Driver 209: still in queue 
+Driver 209: exited 
+Driver 210: still in queue 
+Driver 210: still in queue 
+Driver 210: still in queue 
+Driver 210: exited 
+Driver 211: still in queue 
+Driver 211: still in queue 
+Driver 211: still in queue 
+Driver 211: still in queue 
+Driver 211: still in queue 
+Driver 211: exited 
+Driver 212: exited 
+Driver 213: still in queue 
+Driver 213: still in queue 
+Driver 213: still in queue 
+Driver 213: still in queue 
+Driver 213: still in queue 
+Driver 213: still in queue 
+Driver 213: exited 
+Driver 214: still in queue 
+Driver 214: still in queue 
+Driver 214: still in queue 
+Driver 214: still in queue 
+Driver 214: still in queue 
+Driver 214: still in queue 
+Driver 214: still in queue 
+Driver 214: still in queue 
+Driver 214: exited 
+Driver 215: still in queue 
+Driver 215: still in queue 
+Driver 215: still in queue 
+Driver 215: still in queue 
+Driver 215: still in queue 
+Driver 215: still in queue 
+Driver 215: still in queue 
+Driver 215: exited 
+Driver 216: exited 
+Driver 217: exited 
+Driver 218: still in queue 
+Driver 218: still in queue 
+Driver 218: still in queue 
+Driver 218: still in queue 
+Driver 218: still in queue 
+Driver 218: still in queue 
+Driver 218: still in queue 
+Driver 218: still in queue 
+Driver 218: still in queue 
+Driver 218: exited 
+Driver 219: still in queue 
+Driver 219: still in queue 
+Driver 219: exited 
+Driver 220: still in queue 
+Driver 220: still in queue 
+Driver 220: still in queue 
+Driver 220: still in queue 
+Driver 220: still in queue 
+Driver 220: still in queue 
+Driver 220: still in queue 
+Driver 220: still in queue 
+Driver 220: still in queue 
+Driver 220: still in queue 
+Driver 220: still in queue 
+Driver 220: exited 
+Driver 221: exited 
+Driver 222: still in queue 
+Driver 222: exited 
+Driver 223: still in queue 
+Driver 223: still in queue 
+Driver 223: exited 
+Driver 224: still in queue 
+Driver 224: still in queue 
+Driver 224: still in queue 
+Driver 224: still in queue 
+Driver 224: still in queue 
+Driver 224: still in queue 
+Driver 224: exited 
+Driver 225: still in queue 
+Driver 225: exited 
+Driver 226: still in queue 
+Driver 226: still in queue 
+Driver 226: exited 
+Driver 227: still in queue 
+Driver 227: still in queue 
+Driver 227: exited 
+Driver 228: still in queue 
+Driver 228: still in queue 
+Driver 228: still in queue 
+Driver 228: still in queue 
+Driver 228: still in queue 
+Driver 228: still in queue 
+Driver 228: exited 
+Driver 229: still in queue 
+Driver 229: still in queue 
+Driver 229: still in queue 
+Driver 229: still in queue 
+Driver 229: still in queue 
+Driver 229: exited 
+Driver 230: still in queue 
+Driver 230: still in queue 
+Driver 230: exited 
+Driver 231: still in queue 
+Driver 231: exited 
+Driver 232: exited 
+Driver 233: still in queue 
+Driver 233: exited 
+Driver 234: still in queue 
+Driver 234: still in queue 
+Driver 234: still in queue 
+Driver 234: still in queue 
+Driver 234: still in queue 
+Driver 234: exited 
+Driver 235: still in queue 
+Driver 235: still in queue 
+Driver 235: still in queue 
+Driver 235: still in queue 
+Driver 235: exited 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: still in queue 
+Driver 236: exited 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: still in queue 
+Driver 237: exited 
+Driver 238: still in queue 
+Driver 238: still in queue 
+Driver 238: exited 
+Driver 239: still in queue 
+Driver 239: exited 
+Driver 240: still in queue 
+Driver 240: exited 
+Driver 241: still in queue 
+Driver 241: exited 
+Driver 242: exited 
+Driver 243: still in queue 
+Driver 243: still in queue 
+Driver 243: still in queue 
+Driver 243: still in queue 
+Driver 243: exited 
+Driver 244: exited 
+Driver 245: still in queue 
+Driver 245: still in queue 
+Driver 245: still in queue 
+Driver 245: exited 
+Driver 246: still in queue 
+Driver 246: still in queue 
+Driver 246: still in queue 
+Driver 246: still in queue 
+Driver 246: still in queue 
+Driver 246: still in queue 
+Driver 246: exited 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: still in queue 
+Driver 247: exited 
+Driver 248: still in queue 
+Driver 248: still in queue 
+Driver 248: still in queue 
+Driver 248: still in queue 
+Driver 248: still in queue 
+Driver 248: exited 
+Driver 249: exited 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: still in queue 
+Driver 250: exited 
+Driver 251: still in queue 
+Driver 251: still in queue 
+Driver 251: still in queue 
+Driver 251: still in queue 
+Driver 251: still in queue 
+Driver 251: exited 
+Driver 252: still in queue 
+Driver 252: still in queue 
+Driver 252: exited 
+Driver 253: still in queue 
+Driver 253: still in queue 
+Driver 253: still in queue 
+Driver 253: still in queue 
+Driver 253: still in queue 
+Driver 253: still in queue 
+Driver 253: still in queue 
+Driver 253: still in queue 
+Driver 253: still in queue 
+Driver 253: still in queue 
+Driver 253: exited 
+Driver 254: exited 
+Driver 255: exited 
+Driver 256: still in queue 
+Driver 256: still in queue 
+Driver 256: still in queue 
+Driver 256: exited 
+Driver 257: still in queue 
+Driver 257: still in queue 
+Driver 257: exited 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: still in queue 
+Driver 258: exited 
+Driver 259: still in queue 
+Driver 259: still in queue 
+Driver 259: still in queue 
+Driver 259: exited 
+Driver 260: exited 
+Driver 261: still in queue 
+Driver 261: still in queue 
+Driver 261: exited 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: still in queue 
+Driver 262: exited 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: still in queue 
+Driver 263: exited 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: still in queue 
+Driver 264: exited 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: still in queue 
+Driver 265: exited 
+Driver 266: still in queue 
+Driver 266: still in queue 
+Driver 266: still in queue 
+Driver 266: still in queue 
+Driver 266: exited 
+Driver 267: still in queue 
+Driver 267: still in queue 
+Driver 267: still in queue 
+Driver 267: still in queue 
+Driver 267: still in queue 
+Driver 267: still in queue 
+Driver 267: still in queue 
+Driver 267: still in queue 
+Driver 267: still in queue 
+Driver 267: exited 
+Driver 268: still in queue 
+Driver 268: exited 
+Driver 269: still in queue 
+Driver 269: still in queue 
+Driver 269: exited 
+Driver 270: exited 
+Driver 271: still in queue 
+Driver 271: exited 
+Driver 272: still in queue 
+Driver 272: still in queue 
+Driver 272: still in queue 
+Driver 272: still in queue 
+Driver 272: still in queue 
+Driver 272: still in queue 
+Driver 272: still in queue 
+Driver 272: still in queue 
+Driver 272: still in queue 
+Driver 272: still in queue 
+Driver 272: exited 
+Driver 273: still in queue 
+Driver 273: still in queue 
+Driver 273: still in queue 
+Driver 273: still in queue 
+Driver 273: still in queue 
+Driver 273: still in queue 
+Driver 273: still in queue 
+Driver 273: still in queue 
+Driver 273: still in queue 
+Driver 273: still in queue 
+Driver 273: still in queue 
+Driver 273: exited 
+Driver 274: still in queue 
+Driver 274: still in queue 
+Driver 274: still in queue 
+Driver 274: exited 
+Driver 275: still in queue 
+Driver 275: exited 
+Driver 276: still in queue 
+Driver 276: exited 
+Driver 277: still in queue 
+Driver 277: still in queue 
+Driver 277: still in queue 
+Driver 277: exited 
+Driver 278: still in queue 
+Driver 278: still in queue 
+Driver 278: still in queue 
+Driver 278: exited 
+Driver 279: still in queue 
+Driver 279: still in queue 
+Driver 279: still in queue 
+Driver 279: exited 
+Driver 280: still in queue 
+Driver 280: still in queue 
+Driver 280: still in queue 
+Driver 280: still in queue 
+Driver 280: still in queue 
+Driver 280: still in queue 
+Driver 280: still in queue 
+Driver 280: still in queue 
+Driver 280: still in queue 
+Driver 280: still in queue 
+Driver 280: still in queue 
+Driver 280: exited 
+Driver 281: still in queue 
+Driver 281: exited 
+Driver 282: exited 
+Driver 283: exited 
+Driver 284: exited 
+Driver 285: still in queue 
+Driver 285: still in queue 
+Driver 285: still in queue 
+Driver 285: still in queue 
+Driver 285: exited 
+Driver 286: still in queue 
+Driver 286: still in queue 
+Driver 286: still in queue 
+Driver 286: still in queue 
+Driver 286: still in queue 
+Driver 286: still in queue 
+Driver 286: exited 
+Driver 287: still in queue 
+Driver 287: still in queue 
+Driver 287: still in queue 
+Driver 287: still in queue 
+Driver 287: still in queue 
+Driver 287: still in queue 
+Driver 287: still in queue 
+Driver 287: still in queue 
+Driver 287: still in queue 
+Driver 287: still in queue 
+Driver 287: still in queue 
+Driver 287: exited 
+Driver 288: exited 
+Driver 289: still in queue 
+Driver 289: still in queue 
+Driver 289: still in queue 
+Driver 289: still in queue 
+Driver 289: still in queue 
+Driver 289: still in queue 
+Driver 289: still in queue 
+Driver 289: still in queue 
+Driver 289: still in queue 
+Driver 289: still in queue 
+Driver 289: exited 
+Driver 290: still in queue 
+Driver 290: still in queue 
+Driver 290: still in queue 
+Driver 290: still in queue 
+Driver 290: still in queue 
+Driver 290: still in queue 
+Driver 290: exited 
+Driver 291: still in queue 
+Driver 291: still in queue 
+Driver 291: exited 
+Driver 292: still in queue 
+Driver 292: still in queue 
+Driver 292: still in queue 
+Driver 292: still in queue 
+Driver 292: still in queue 
+Driver 292: still in queue 
+Driver 292: exited 
+Driver 293: still in queue 
+Driver 293: still in queue 
+Driver 293: still in queue 
+Driver 293: still in queue 
+Driver 293: still in queue 
+Driver 293: exited 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: still in queue 
+Driver 294: exited 
+Driver 295: still in queue 
+Driver 295: still in queue 
+Driver 295: still in queue 
+Driver 295: still in queue 
+Driver 295: still in queue 
+Driver 295: exited 
+Driver 296: still in queue 
+Driver 296: exited 
+Driver 297: still in queue 
+Driver 297: exited 
+Driver 298: still in queue 
+Driver 298: still in queue 
+Driver 298: still in queue 
+Driver 298: still in queue 
+Driver 298: still in queue 
+Driver 298: still in queue 
+Driver 298: still in queue 
+Driver 298: still in queue 
+Driver 298: exited 
+Driver 299: still in queue 
+Driver 299: exited 
+Driver 300: still in queue 
+Driver 300: still in queue 
+Driver 300: still in queue 
+Driver 300: exited 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: still in queue 
+Driver 301: exited 
+Driver 302: still in queue 
+Driver 302: still in queue 
+Driver 302: still in queue 
+Driver 302: still in queue 
+Driver 302: exited 
+Driver 303: exited 
+Driver 304: still in queue 
+Driver 304: still in queue 
+Driver 304: still in queue 
+Driver 304: still in queue 
+Driver 304: still in queue 
+Driver 304: still in queue 
+Driver 304: exited 
+Driver 305: still in queue 
+Driver 305: still in queue 
+Driver 305: still in queue 
+Driver 305: exited 
+Driver 306: still in queue 
+Driver 306: still in queue 
+Driver 306: still in queue 
+Driver 306: still in queue 
+Driver 306: exited 
+Driver 307: exited 
+Driver 308: exited 
+Driver 309: still in queue 
+Driver 309: still in queue 
+Driver 309: still in queue 
+Driver 309: still in queue 
+Driver 309: still in queue 
+Driver 309: exited 
+Driver 310: still in queue 
+Driver 310: still in queue 
+Driver 310: still in queue 
+Driver 310: still in queue 
+Driver 310: still in queue 
+Driver 310: exited 
+Driver 311: exited 
+Driver 312: still in queue 
+Driver 312: exited 
+Driver 313: still in queue 
+Driver 313: still in queue 
+Driver 313: exited 
+Driver 314: still in queue 
+Driver 314: still in queue 
+Driver 314: still in queue 
+Driver 314: still in queue 
+Driver 314: still in queue 
+Driver 314: still in queue 
+Driver 314: still in queue 
+Driver 314: still in queue 
+Driver 314: still in queue 
+Driver 314: still in queue 
+Driver 314: still in queue 
+Driver 314: exited 
+Driver 315: still in queue 
+Driver 315: still in queue 
+Driver 315: still in queue 
+Driver 315: still in queue 
+Driver 315: exited 
+Driver 316: exited 
+Driver 317: still in queue 
+Driver 317: exited 
+Driver 318: still in queue 
+Driver 318: still in queue 
+Driver 318: still in queue 
+Driver 318: exited 
+Driver 319: still in queue 
+Driver 319: still in queue 
+Driver 319: still in queue 
+Driver 319: exited 
+Driver 320: still in queue 
+Driver 320: still in queue 
+Driver 320: still in queue 
+Driver 320: still in queue 
+Driver 320: still in queue 
+Driver 320: still in queue 
+Driver 320: exited 
+Driver 321: exited 
+Driver 322: exited 
+Driver 323: still in queue 
+Driver 323: still in queue 
+Driver 323: still in queue 
+Driver 323: exited 
+Driver 324: still in queue 
+Driver 324: still in queue 
+Driver 324: still in queue 
+Driver 324: exited 
+Driver 325: exited 
+Driver 326: still in queue 
+Driver 326: still in queue 
+Driver 326: exited 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: still in queue 
+Driver 327: exited 
+Driver 328: still in queue 
+Driver 328: exited 
+Driver 329: exited 
+Driver 330: exited 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: still in queue 
+Driver 331: exited 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: still in queue 
+Driver 332: exited 
+Driver 333: still in queue 
+Driver 333: still in queue 
+Driver 333: still in queue 
+Driver 333: still in queue 
+Driver 333: still in queue 
+Driver 333: still in queue 
+Driver 333: exited 
+Driver 334: still in queue 
+Driver 334: exited 
+Driver 335: still in queue 
+Driver 335: still in queue 
+Driver 335: still in queue 
+Driver 335: still in queue 
+Driver 335: exited 
+Driver 336: still in queue 
+Driver 336: still in queue 
+Driver 336: still in queue 
+Driver 336: still in queue 
+Driver 336: still in queue 
+Driver 336: exited 
+Driver 337: still in queue 
+Driver 337: still in queue 
+Driver 337: exited 
+Driver 338: still in queue 
+Driver 338: exited 
+Driver 339: still in queue 
+Driver 339: still in queue 
+Driver 339: still in queue 
+Driver 339: still in queue 
+Driver 339: still in queue 
+Driver 339: still in queue 
+Driver 339: still in queue 
+Driver 339: still in queue 
+Driver 339: exited 
+Driver 340: still in queue 
+Driver 340: still in queue 
+Driver 340: exited 
+Driver 341: exited 
+Driver 342: still in queue 
+Driver 342: exited 
+Driver 343: still in queue 
+Driver 343: still in queue 
+Driver 343: exited 
+Driver 344: still in queue 
+Driver 344: still in queue 
+Driver 344: still in queue 
+Driver 344: still in queue 
+Driver 344: exited 
+Driver 345: still in queue 
+Driver 345: exited 
+Driver 346: still in queue 
+Driver 346: still in queue 
+Driver 346: still in queue 
+Driver 346: exited 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: still in queue 
+Driver 347: exited 
+Driver 348: still in queue 
+Driver 348: still in queue 
+Driver 348: still in queue 
+Driver 348: still in queue 
+Driver 348: exited 
+Driver 349: still in queue 
+Driver 349: still in queue 
+Driver 349: still in queue 
+Driver 349: still in queue 
+Driver 349: still in queue 
+Driver 349: exited 
+Driver 350: still in queue 
+Driver 350: still in queue 
+Driver 350: exited 
+Driver 351: still in queue 
+Driver 351: still in queue 
+Driver 351: exited 
+Driver 352: still in queue 
+Driver 352: exited 
+Driver 353: still in queue 
+Driver 353: still in queue 
+Driver 353: still in queue 
+Driver 353: exited 
+Driver 354: exited 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: still in queue 
+Driver 355: exited 
+Driver 356: still in queue 
+Driver 356: still in queue 
+Driver 356: still in queue 
+Driver 356: still in queue 
+Driver 356: still in queue 
+Driver 356: still in queue 
+Driver 356: exited 
+Driver 357: still in queue 
+Driver 357: still in queue 
+Driver 357: still in queue 
+Driver 357: still in queue 
+Driver 357: still in queue 
+Driver 357: still in queue 
+Driver 357: still in queue 
+Driver 357: still in queue 
+Driver 357: still in queue 
+Driver 357: still in queue 
+Driver 357: exited 
+Driver 358: still in queue 
+Driver 358: still in queue 
+Driver 358: still in queue 
+Driver 358: still in queue 
+Driver 358: exited 
+Driver 359: exited 
+Driver 360: still in queue 
+Driver 360: still in queue 
+Driver 360: still in queue 
+Driver 360: still in queue 
+Driver 360: still in queue 
+Driver 360: still in queue 
+Driver 360: still in queue 
+Driver 360: exited 
+Driver 361: still in queue 
+Driver 361: still in queue 
+Driver 361: still in queue 
+Driver 361: still in queue 
+Driver 361: still in queue 
+Driver 361: still in queue 
+Driver 361: still in queue 
+Driver 361: still in queue 
+Driver 361: still in queue 
+Driver 361: still in queue 
+Driver 361: exited 
+Driver 362: still in queue 
+Driver 362: still in queue 
+Driver 362: exited 
+Driver 363: still in queue 
+Driver 363: still in queue 
+Driver 363: exited 
+Driver 364: exited 
+Driver 365: exited 
+Driver 366: still in queue 
+Driver 366: still in queue 
+Driver 366: still in queue 
+Driver 366: still in queue 
+Driver 366: still in queue 
+Driver 366: exited 
+Driver 367: exited 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: still in queue 
+Driver 368: exited 
+Driver 369: still in queue 
+Driver 369: still in queue 
+Driver 369: still in queue 
+Driver 369: still in queue 
+Driver 369: still in queue 
+Driver 369: exited 
+Driver 370: still in queue 
+Driver 370: still in queue 
+Driver 370: still in queue 
+Driver 370: still in queue 
+Driver 370: still in queue 
+Driver 370: exited 
+Driver 371: still in queue 
+Driver 371: exited 
+Driver 372: still in queue 
+Driver 372: exited 
+Driver 373: still in queue 
+Driver 373: still in queue 
+Driver 373: exited 
+Driver 374: still in queue 
+Driver 374: exited 
+Driver 375: still in queue 
+Driver 375: exited 
+Driver 376: still in queue 
+Driver 376: still in queue 
+Driver 376: still in queue 
+Driver 376: still in queue 
+Driver 376: still in queue 
+Driver 376: still in queue 
+Driver 376: still in queue 
+Driver 376: exited 
+Driver 377: still in queue 
+Driver 377: still in queue 
+Driver 377: still in queue 
+Driver 377: still in queue 
+Driver 377: exited 
+Driver 378: still in queue 
+Driver 378: exited 
+Driver 379: exited 
+Driver 380: exited 
+Driver 381: still in queue 
+Driver 381: still in queue 
+Driver 381: still in queue 
+Driver 381: still in queue 
+Driver 381: exited 
+Driver 382: still in queue 
+Driver 382: still in queue 
+Driver 382: still in queue 
+Driver 382: still in queue 
+Driver 382: exited 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: still in queue 
+Driver 383: exited 
+Driver 384: still in queue 
+Driver 384: still in queue 
+Driver 384: exited 
+Driver 385: exited 
+Driver 386: still in queue 
+Driver 386: still in queue 
+Driver 386: still in queue 
+Driver 386: still in queue 
+Driver 386: still in queue 
+Driver 386: exited 
+Driver 387: still in queue 
+Driver 387: still in queue 
+Driver 387: still in queue 
+Driver 387: still in queue 
+Driver 387: exited 
+Driver 388: still in queue 
+Driver 388: still in queue 
+Driver 388: still in queue 
+Driver 388: exited 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: still in queue 
+Driver 389: exited 
+Driver 390: still in queue 
+Driver 390: still in queue 
+Driver 390: exited 
+Driver 391: still in queue 
+Driver 391: exited 
+Driver 392: still in queue 
+Driver 392: still in queue 
+Driver 392: still in queue 
+Driver 392: still in queue 
+Driver 392: still in queue 
+Driver 392: still in queue 
+Driver 392: still in queue 
+Driver 392: exited 
+Driver 393: still in queue 
+Driver 393: exited 
+Driver 394: still in queue 
+Driver 394: still in queue 
+Driver 394: still in queue 
+Driver 394: exited 
+Driver 395: still in queue 
+Driver 395: still in queue 
+Driver 395: still in queue 
+Driver 395: exited 
+Driver 396: still in queue 
+Driver 396: still in queue 
+Driver 396: still in queue 
+Driver 396: still in queue 
+Driver 396: still in queue 
+Driver 396: still in queue 
+Driver 396: still in queue 
+Driver 396: still in queue 
+Driver 396: still in queue 
+Driver 396: still in queue 
+Driver 396: still in queue 
+Driver 396: exited 
+Driver 397: still in queue 
+Driver 397: still in queue 
+Driver 397: still in queue 
+Driver 397: still in queue 
+Driver 397: exited 
+Driver 398: exited 
+Driver 399: still in queue 
+Driver 399: still in queue 
+Driver 399: exited 
+Driver 400: still in queue 
+Driver 400: still in queue 
+Driver 400: exited 
+Driver 401: still in queue 
+Driver 401: still in queue 
+Driver 401: still in queue 
+Driver 401: still in queue 
+Driver 401: exited 
+Driver 402: exited 
+Driver 403: still in queue 
+Driver 403: still in queue 
+Driver 403: still in queue 
+Driver 403: still in queue 
+Driver 403: still in queue 
+Driver 403: still in queue 
+Driver 403: still in queue 
+Driver 403: exited 
+Driver 404: exited 
+Driver 405: still in queue 
+Driver 405: still in queue 
+Driver 405: still in queue 
+Driver 405: still in queue 
+Driver 405: still in queue 
+Driver 405: exited 
+Driver 406: still in queue 
+Driver 406: still in queue 
+Driver 406: exited 
+Driver 407: exited 
+Driver 408: still in queue 
+Driver 408: still in queue 
+Driver 408: exited 
+Driver 409: still in queue 
+Driver 409: still in queue 
+Driver 409: still in queue 
+Driver 409: still in queue 
+Driver 409: exited 
+Driver 410: still in queue 
+Driver 410: still in queue 
+Driver 410: exited 
+Driver 411: still in queue 
+Driver 411: still in queue 
+Driver 411: still in queue 
+Driver 411: still in queue 
+Driver 411: still in queue 
+Driver 411: still in queue 
+Driver 411: still in queue 
+Driver 411: still in queue 
+Driver 411: exited 
+Driver 412: exited 
+Driver 413: still in queue 
+Driver 413: still in queue 
+Driver 413: still in queue 
+Driver 413: still in queue 
+Driver 413: still in queue 
+Driver 413: still in queue 
+Driver 413: exited 
+Driver 414: still in queue 
+Driver 414: still in queue 
+Driver 414: exited 
+Driver 415: still in queue 
+Driver 415: exited 
+Driver 416: exited 
+Driver 417: still in queue 
+Driver 417: still in queue 
+Driver 417: still in queue 
+Driver 417: exited 
+Driver 418: still in queue 
+Driver 418: still in queue 
+Driver 418: exited 
+Driver 419: exited 
+Driver 420: still in queue 
+Driver 420: still in queue 
+Driver 420: still in queue 
+Driver 420: still in queue 
+Driver 420: still in queue 
+Driver 420: exited 
+Driver 421: still in queue 
+Driver 421: still in queue 
+Driver 421: exited 
+Driver 422: still in queue 
+Driver 422: still in queue 
+Driver 422: still in queue 
+Driver 422: still in queue 
+Driver 422: still in queue 
+Driver 422: still in queue 
+Driver 422: still in queue 
+Driver 422: exited 
+Driver 423: exited 
+Driver 424: still in queue 
+Driver 424: exited 
+Driver 425: still in queue 
+Driver 425: still in queue 
+Driver 425: exited 
+Driver 426: still in queue 
+Driver 426: exited 
+Driver 427: still in queue 
+Driver 427: still in queue 
+Driver 427: exited 
+Driver 428: still in queue 
+Driver 428: still in queue 
+Driver 428: still in queue 
+Driver 428: still in queue 
+Driver 428: still in queue 
+Driver 428: exited 
+Driver 429: still in queue 
+Driver 429: still in queue 
+Driver 429: still in queue 
+Driver 429: still in queue 
+Driver 429: still in queue 
+Driver 429: still in queue 
+Driver 429: still in queue 
+Driver 429: still in queue 
+Driver 429: exited 
+Driver 430: exited 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: still in queue 
+Driver 431: exited 
+Driver 432: still in queue 
+Driver 432: still in queue 
+Driver 432: still in queue 
+Driver 432: still in queue 
+Driver 432: still in queue 
+Driver 432: still in queue 
+Driver 432: still in queue 
+Driver 432: still in queue 
+Driver 432: still in queue 
+Driver 432: exited 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: still in queue 
+Driver 433: exited 
+Driver 434: still in queue 
+Driver 434: exited 
+Driver 435: still in queue 
+Driver 435: still in queue 
+Driver 435: still in queue 
+Driver 435: still in queue 
+Driver 435: still in queue 
+Driver 435: still in queue 
+Driver 435: still in queue 
+Driver 435: exited 
+Driver 436: still in queue 
+Driver 436: still in queue 
+Driver 436: still in queue 
+Driver 436: still in queue 
+Driver 436: still in queue 
+Driver 436: still in queue 
+Driver 436: still in queue 
+Driver 436: exited 
+Driver 437: still in queue 
+Driver 437: still in queue 
+Driver 437: still in queue 
+Driver 437: still in queue 
+Driver 437: still in queue 
+Driver 437: still in queue 
+Driver 437: still in queue 
+Driver 437: exited 
+Driver 438: still in queue 
+Driver 438: still in queue 
+Driver 438: still in queue 
+Driver 438: exited 
+Driver 439: still in queue 
+Driver 439: still in queue 
+Driver 439: exited 
+Driver 440: still in queue 
+Driver 440: still in queue 
+Driver 440: exited 
+Driver 441: still in queue 
+Driver 441: still in queue 
+Driver 441: still in queue 
+Driver 441: still in queue 
+Driver 441: still in queue 
+Driver 441: still in queue 
+Driver 441: exited 
+Driver 442: still in queue 
+Driver 442: still in queue 
+Driver 442: still in queue 
+Driver 442: still in queue 
+Driver 442: still in queue 
+Driver 442: still in queue 
+Driver 442: exited 
+Driver 443: still in queue 
+Driver 443: exited 
+Driver 444: still in queue 
+Driver 444: exited 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: still in queue 
+Driver 445: exited 
+Driver 446: still in queue 
+Driver 446: still in queue 
+Driver 446: exited 
+Driver 447: still in queue 
+Driver 447: still in queue 
+Driver 447: still in queue 
+Driver 447: still in queue 
+Driver 447: still in queue 
+Driver 447: still in queue 
+Driver 447: still in queue 
+Driver 447: still in queue 
+Driver 447: still in queue 
+Driver 447: still in queue 
+Driver 447: exited 
+Driver 448: still in queue 
+Driver 448: still in queue 
+Driver 448: still in queue 
+Driver 448: still in queue 
+Driver 448: still in queue 
+Driver 448: still in queue 
+Driver 448: exited 
+Driver 449: still in queue 
+Driver 449: still in queue 
+Driver 449: still in queue 
+Driver 449: still in queue 
+Driver 449: still in queue 
+Driver 449: still in queue 
+Driver 449: still in queue 
+Driver 449: still in queue 
+Driver 449: still in queue 
+Driver 449: exited 
+Driver 450: still in queue 
+Driver 450: still in queue 
+Driver 450: still in queue 
+Driver 450: still in queue 
+Driver 450: still in queue 
+Driver 450: still in queue 
+Driver 450: still in queue 
+Driver 450: still in queue 
+Driver 450: exited 
+Driver 451: still in queue 
+Driver 451: still in queue 
+Driver 451: still in queue 
+Driver 451: still in queue 
+Driver 451: exited 
+Driver 452: still in queue 
+Driver 452: still in queue 
+Driver 452: exited 
+Driver 453: still in queue 
+Driver 453: still in queue 
+Driver 453: still in queue 
+Driver 453: still in queue 
+Driver 453: exited 
+Driver 454: still in queue 
+Driver 454: still in queue 
+Driver 454: still in queue 
+Driver 454: exited 
+Driver 455: exited 
+Driver 456: exited 
+Driver 457: still in queue 
+Driver 457: still in queue 
+Driver 457: still in queue 
+Driver 457: exited 
+Driver 458: still in queue 
+Driver 458: still in queue 
+Driver 458: still in queue 
+Driver 458: still in queue 
+Driver 458: still in queue 
+Driver 458: still in queue 
+Driver 458: still in queue 
+Driver 458: still in queue 
+Driver 458: exited 
+Driver 459: still in queue 
+Driver 459: still in queue 
+Driver 459: exited 
+Driver 460: still in queue 
+Driver 460: still in queue 
+Driver 460: exited 
+Driver 461: still in queue 
+Driver 461: still in queue 
+Driver 461: exited 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: still in queue 
+Driver 462: exited 
+Driver 463: still in queue 
+Driver 463: still in queue 
+Driver 463: still in queue 
+Driver 463: still in queue 
+Driver 463: still in queue 
+Driver 463: exited 
+Driver 464: exited 
+Driver 465: still in queue 
+Driver 465: still in queue 
+Driver 465: exited 
+Driver 466: still in queue 
+Driver 466: exited 
+Driver 467: still in queue 
+Driver 467: still in queue 
+Driver 467: exited 
+Driver 468: still in queue 
+Driver 468: still in queue 
+Driver 468: exited 
+Driver 469: still in queue 
+Driver 469: still in queue 
+Driver 469: exited 
+Driver 470: exited 
+Driver 471: still in queue 
+Driver 471: still in queue 
+Driver 471: still in queue 
+Driver 471: still in queue 
+Driver 471: exited 
+Driver 472: still in queue 
+Driver 472: exited 
+Driver 473: exited 
+Driver 474: still in queue 
+Driver 474: exited 
+Driver 475: still in queue 
+Driver 475: still in queue 
+Driver 475: still in queue 
+Driver 475: still in queue 
+Driver 475: still in queue 
+Driver 475: exited 
+Driver 476: still in queue 
+Driver 476: still in queue 
+Driver 476: exited 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: still in queue 
+Driver 477: exited 
+Driver 478: still in queue 
+Driver 478: still in queue 
+Driver 478: still in queue 
+Driver 478: exited 
+Driver 479: exited 
+Driver 480: still in queue 
+Driver 480: still in queue 
+Driver 480: still in queue 
+Driver 480: still in queue 
+Driver 480: still in queue 
+Driver 480: still in queue 
+Driver 480: still in queue 
+Driver 480: still in queue 
+Driver 480: exited 
+Driver 481: still in queue 
+Driver 481: still in queue 
+Driver 481: exited 
+Driver 482: still in queue 
+Driver 482: still in queue 
+Driver 482: still in queue 
+Driver 482: still in queue 
+Driver 482: still in queue 
+Driver 482: still in queue 
+Driver 482: still in queue 
+Driver 482: still in queue 
+Driver 482: still in queue 
+Driver 482: exited 
+Driver 483: still in queue 
+Driver 483: exited 
+Driver 484: still in queue 
+Driver 484: still in queue 
+Driver 484: still in queue 
+Driver 484: exited 
+Driver 485: exited 
+Driver 486: still in queue 
+Driver 486: still in queue 
+Driver 486: exited 
+Driver 487: still in queue 
+Driver 487: still in queue 
+Driver 487: still in queue 
+Driver 487: still in queue 
+Driver 487: exited 
+Driver 488: still in queue 
+Driver 488: still in queue 
+Driver 488: still in queue 
+Driver 488: still in queue 
+Driver 488: still in queue 
+Driver 488: still in queue 
+Driver 488: still in queue 
+Driver 488: still in queue 
+Driver 488: still in queue 
+Driver 488: still in queue 
+Driver 488: still in queue 
+Driver 488: exited 
+Driver 489: exited 
+Driver 490: still in queue 
+Driver 490: exited 
+Driver 491: still in queue 
+Driver 491: exited 
+Driver 492: still in queue 
+Driver 492: still in queue 
+Driver 492: still in queue 
+Driver 492: still in queue 
+Driver 492: still in queue 
+Driver 492: still in queue 
+Driver 492: exited 
+Driver 493: still in queue 
+Driver 493: still in queue 
+Driver 493: still in queue 
+Driver 493: still in queue 
+Driver 493: exited 
+Driver 494: still in queue 
+Driver 494: still in queue 
+Driver 494: still in queue 
+Driver 494: still in queue 
+Driver 494: still in queue 
+Driver 494: exited 
+Driver 495: still in queue 
+Driver 495: exited 
+Driver 496: still in queue 
+Driver 496: still in queue 
+Driver 496: still in queue 
+Driver 496: still in queue 
+Driver 496: still in queue 
+Driver 496: still in queue 
+Driver 496: exited 
+Driver 497: still in queue 
+Driver 497: still in queue 
+Driver 497: still in queue 
+Driver 497: exited 
+Driver 498: still in queue 
+Driver 498: still in queue 
+Driver 498: exited 

@@ -12,7 +12,7 @@ Our group implemented 5 different methods to find the most efficient way to matc
 5. Looked at drivers within 10 minutes of finishing their ride and all available drivers using the method in 4 to minimize passenger wait time and maximize driver profit. 
 
 
-To run all of our code, you can use Jupyter notebook or VSCode to open up each of the `.ipynb` and run all of the cells. Take a look at our presentation [here](330_Case_Study_Presentation.pdf) .
+To run all of our code, you can use Jupyter notebook or VSCode to open up each of the `.ipynb` and run all of the cells. Take a look at our presentation [here](330_Case_Study_Presentation.pdf).
 
 
 ### Representation of our shortest path algorithm. 

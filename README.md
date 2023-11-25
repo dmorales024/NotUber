@@ -16,8 +16,7 @@ To run all of our code, you can use Jupyter notebook or VSCode to open up each o
 
 
 ### Representation of our shortest path algorithm. 
-<<<<<<< HEAD
+
 ![Dijkstra's](./Dijkstras.png)
-=======
-![Dijkstra's](./Dijkstras.png)
->>>>>>> 165bcd74d2442b948e2c5a54b396712916aea686
+
+
